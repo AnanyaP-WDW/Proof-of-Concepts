@@ -1,5 +1,5 @@
-## Subtheme Sentiment Analysis Task:
-# Description:
+# Subtheme Sentiment Analysis Task:
+## Description:
 Take the following review for example:
 
 > **“One tyre went missing, so there was a delay to get the two tyres fitted. The way garage dealt with it was fantastic”**
@@ -10,6 +10,6 @@ In this review there are numerous insights, insights we call “subtheme sentime
                 
 The main difference between these subthemes is that garage service and wait time are aspects of the service that can be positive or negative while
 Incorrect Tyres sent denotes a problem, something inherently negative.
-# Approach:
+### Approach:
 1) Multi-class classification of sentiment.
 2) Attaching labels based on regex rules.
