@@ -12,4 +12,4 @@ The main difference between these subthemes is that garage service and wait time
 Incorrect Tyres sent denotes a problem, something inherently negative.
 ### Approach:
 1) Multi-class classification of sentiment.
-2) Attaching labels based on regex rules.
+2) Attaching labels (*aspects*) based on regex rules.
