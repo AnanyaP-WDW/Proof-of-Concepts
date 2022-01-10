@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+  <title>absa model</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+
+<body>
+ <div class="container">
+	<h1>absa model</h1>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}"method="post">
+    	<input type="text" name="topic name" placeholder="Enter topic name" required="required" />
+
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+
+   <br>
+   <h2>Training Data</h2>
+   <br>
+   <p>{{train_data}}</p>
+   <br>
+   <h2>Scraped Data</h2>
+   <br>
+   <p>{{prediction_text}}</p>
+   <br>
+   <h2>Predictions</h2>
+   <br>
+   <p>{{ text_2}}</p>
+   <br>
+   <img src="{{ url_for('static', filename='wordcloud.png')}}" alt = "wordcloud">
+
+
+ </div>
+
+</body>
+</html>
