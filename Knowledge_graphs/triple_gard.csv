@@ -1,0 +1,516 @@
+subject,relation,object,subject_type,object_type
+Complications,include,esophagitis,NOUN_CHUNK,NOUN_CHUNK
+Medications,include,antihistamines,NOUN_CHUNK,NOUN_CHUNK
+GERD,causes,injury,NOUN_CHUNK,NOUN_CHUNK
+Esophageal adenocarcinoma,causes,injury,NOUN_CHUNK,NOUN_CHUNK
+complications,include,aspiration pneumonia,NOUN_CHUNK,NOUN_CHUNK
+up to 35%,have,difficulties,PERCENT,NOUN_CHUNK
+children,outgrow,reflux,NOUN_CHUNK,NOUN_CHUNK
+double blind study,found,clinically significant difference,NOUN_CHUNK,NOUN_CHUNK
+investigations,include,esophagogastroduodenoscopy,NOUN_CHUNK,NOUN_CHUNK
+LPR,produces,heartburn,ORG,NOUN_CHUNK
+treatments,include,food choices,NOUN_CHUNK,NOUN_CHUNK
+Adverse responses,include,difficulty,NOUN_CHUNK,NOUN_CHUNK
+20%,have,symptoms,PERCENT,NOUN_CHUNK
+data,support,sex predominance,NOUN_CHUNK,NOUN_CHUNK
+Stedman Medical Dictionary Online,defines,abdominal angina,NOUN_CHUNK,NOUN_CHUNK
+people,receiving,chemotherapy,NOUN_CHUNK,NOUN_CHUNK
+The Duodenum,receives,particles,PERSON,NOUN_CHUNK
+Crohn disease,affects,large small intestine,NOUN_CHUNK,NOUN_CHUNK
+kidneys,filter,blood,NOUN_CHUNK,NOUN_CHUNK
+Complicated urinary tract infections,include,renal perirenal abscess,NOUN_CHUNK,NOUN_CHUNK
+kidney,filters,blood,NOUN_CHUNK,NOUN_CHUNK
+Achalasia,affects,person,ORG,NOUN_CHUNK
+people,experience,coughing,NOUN_CHUNK,NOUN_CHUNK
+studies,suggest,hereditary neurodegenerative genetic infective contributions,NOUN_CHUNK,NOUN_CHUNK
+probe,measures,muscle contractions,NOUN_CHUNK,NOUN_CHUNK
+Manometry,reveals,failure,NOUN_CHUNK,NOUN_CHUNK
+Sublingual nifedipine,improves,outcomes,NOUN_CHUNK,NOUN_CHUNK
+recent randomized controlled trial,found,pneumatic dilation,NOUN_CHUNK,NOUN_CHUNK
+Pneumatic dilatation,has,better long term effectiveness,NOUN_CHUNK,NOUN_CHUNK
+Heller myotomy,helps,90%,NOUN_CHUNK,PERCENT
+Recent understanding,shed,light,NOUN_CHUNK,NOUN_CHUNK
+Laparoscopic myotomy,cuts,muscle,NOUN_CHUNK,NOUN_CHUNK
+Recent robotic laparoscopic series,attempted,myotomy,NOUN_CHUNK,NOUN_CHUNK
+robotic lateral esophageal myotomy,had,best results,NOUN_CHUNK,NOUN_CHUNK
+Patients,spend,about 1–4 days,NOUN_CHUNK,DATE
+Disease,affects,adults,NOUN_CHUNK,NOUN_CHUNK
+Ménétrier disease,causing,excess protein loss,NOUN_CHUNK,NOUN_CHUNK
+treatment,has,known effect,NOUN_CHUNK,NOUN_CHUNK
+Bacterial overgrowth,cause,false positive H. pylori test results,NOUN_CHUNK,NOUN_CHUNK
+Digestion,involves,breakdown,NOUN_CHUNK,NOUN_CHUNK
+process,has,stages,NOUN_CHUNK,NOUN_CHUNK
+Saliva,contains,digestive enzymes,NOUN_CHUNK,NOUN_CHUNK
+gastric phase,takes,place,NOUN_CHUNK,NOUN_CHUNK
+components,include,mouth,NOUN_CHUNK,NOUN_CHUNK
+detection,enables,control,NOUN_CHUNK,NOUN_CHUNK
+Muscles,push,food,NOUN_CHUNK,NOUN_CHUNK
+The pharynx,joins,esophagus,ORG,NOUN_CHUNK
+length,averages,25 cm,NOUN_CHUNK,QUANTITY
+muscular diaphragm,separates,thoracic cavity,NOUN_CHUNK,NOUN_CHUNK
+suspensory muscle,attaches,ascending duodenum,NOUN_CHUNK,NOUN_CHUNK
+attachment,thought to,wider angle,NOUN_CHUNK,NOUN_CHUNK
+esophagus,enters,abdomen,NOUN_CHUNK,NOUN_CHUNK
+pancreatic enzymes,break down,protective glycoprotein,NOUN_CHUNK,NOUN_CHUNK
+liver,synthesise,glucose,NOUN_CHUNK,NOUN_CHUNK
+liver,synthesises,bulk,NOUN_CHUNK,NOUN_CHUNK
+breaking,creates,larger surface area,NOUN_CHUNK,NOUN_CHUNK
+Lipase,digests,triglycerides,NOUN_CHUNK,NOUN_CHUNK
+Hydrogen ions,keep,bile,NOUN_CHUNK,NOUN_CHUNK
+pancreas,secretes,phospholipase A2,NOUN_CHUNK,NOUN_CHUNK
+lower gastrointestinal tract,includes,small intestine,NOUN_CHUNK,NOUN_CHUNK
+cecum,marks,division,NOUN_CHUNK,NOUN_CHUNK
+large intestine,includes,rectum,NOUN_CHUNK,NOUN_CHUNK
+mucus component,lubricates,walls,NOUN_CHUNK,NOUN_CHUNK
+food digestion,takes,place,NOUN_CHUNK,NOUN_CHUNK
+colipase,secreted,fat content,NOUN_CHUNK,NOUN_CHUNK
+suspensory muscle,marks,end,NOUN_CHUNK,NOUN_CHUNK
+cecum,receives,chyme,NOUN_CHUNK,NOUN_CHUNK
+wall,has,outer layer,NOUN_CHUNK,NOUN_CHUNK
+celiac artery,supplies,liver,NOUN_CHUNK,NOUN_CHUNK
+enveloped portions,form,basis,NOUN_CHUNK,NOUN_CHUNK
+Mouth diseases,include,tongue diseases,NOUN_CHUNK,NOUN_CHUNK
+Malabsorption,have,causes,NOUN_CHUNK,NOUN_CHUNK
+Inflammatory mediators,play,important role,NOUN_CHUNK,NOUN_CHUNK
+liver,has,central role,NOUN_CHUNK,NOUN_CHUNK
+Thrombocytopenia,increases,risk,GPE,NOUN_CHUNK
+blood urea,represent,degree,NOUN_CHUNK,NOUN_CHUNK
+About 60%,fulfil,criteria,PERCENT,NOUN_CHUNK
+Impaired host defence mechanism,increases,risk,NOUN_CHUNK,NOUN_CHUNK
+Early clinical manifestations,include,hypodynamia,NOUN_CHUNK,NOUN_CHUNK
+majority,experienced,vaginal deliveries,NOUN_CHUNK,NOUN_CHUNK
+patients,have,immediate measurement,NOUN_CHUNK,NOUN_CHUNK
+scheme,defines,acute hepatic failure,NOUN_CHUNK,NOUN_CHUNK
+scheme,defines,hyperacute,NOUN_CHUNK,NOUN_CHUNK
+ALF,managed in,rapid deterioration,ORG,NOUN_CHUNK
+possibility,makes,early consultation,NOUN_CHUNK,NOUN_CHUNK
+Stimulation,cause,elevations,NOUN_CHUNK,NOUN_CHUNK
+positive end expiratory pressure,worsen,cerebral edema,NOUN_CHUNK,NOUN_CHUNK
+advent,changed,survival,NOUN_CHUNK,NOUN_CHUNK
+series,reported,death rates,NOUN_CHUNK,NOUN_CHUNK
+advent,improved,survival,NOUN_CHUNK,NOUN_CHUNK
+Aschoff sinuses,called,entrapped epithelial crypts,NOUN_CHUNK,NOUN_CHUNK
+Magnetic resonance imaging,plays,important role,NOUN_CHUNK,NOUN_CHUNK
+distortion,prevent,ovum,NOUN_CHUNK,NOUN_CHUNK
+Surgical humidification therapy,minimise,incidence,NOUN_CHUNK,NOUN_CHUNK
+Adhesions,obscure,visibility,NOUN_CHUNK,NOUN_CHUNK
+long term use,cause,adhesion formation,NOUN_CHUNK,NOUN_CHUNK
+splints,advised,grip strength,NOUN_CHUNK,NOUN_CHUNK
+Filmy adhesions,pose,problems,NOUN_CHUNK,NOUN_CHUNK
+Lipase activation,produces,necrosis,NOUN_CHUNK,NOUN_CHUNK
+Elevated serum amylase lipase levels,trigger,initial diagnosis,NOUN_CHUNK,NOUN_CHUNK
+Serum lipase,rises,4 to 8 hours,NOUN_CHUNK,TIME
+Reasons,include,salivary gland disease,NOUN_CHUNK,NOUN_CHUNK
+individual studies,support,superiority,NOUN_CHUNK,NOUN_CHUNK
+Additional utility,includes,indication,NOUN_CHUNK,NOUN_CHUNK
+cardiovascular,Aggressive hydration at,aggressive fluid replacement,NOUN_CHUNK,NOUN_CHUNK
+Adequate pain control,requires,use,NOUN_CHUNK,NOUN_CHUNK
+fentanyl,depress,respiratory function,NOUN_CHUNK,NOUN_CHUNK
+morphine,favored over,increase,NOUN_CHUNK,NOUN_CHUNK
+Approximately 20%,have,relapse,PERCENT,NOUN_CHUNK
+Up to 20 percent,develop,infection,PERCENT,NOUN_CHUNK
+Surgical options,left,flank,NOUN_CHUNK,NOUN_CHUNK
+Immediate assessment,include,clinical evaluation,NOUN_CHUNK,NOUN_CHUNK
+numerical CTSI,has,maximum points,NOUN_CHUNK,NOUN_CHUNK
+blood,glucose,10 mmol L.BISAP score,NOUN_CHUNK,NOUN_CHUNK
+study,showed,lower incidence,NOUN_CHUNK,NOUN_CHUNK
+consumption,plays,important social role,NOUN_CHUNK,NOUN_CHUNK
+Wine,involves,longer fermentation process,NOUN_CHUNK,NOUN_CHUNK
+Freeze distillation,concentrates,ethanol,NOUN_CHUNK,NOUN_CHUNK
+Rectified spirit,lacks,flavoring,NOUN_CHUNK,NOUN_CHUNK
+substances,include,small amounts,NOUN_CHUNK,NOUN_CHUNK
+alcoholic drinks,contain,carbohydrates,NOUN_CHUNK,NOUN_CHUNK
+males,Females on,1.7 drinks,NOUN_CHUNK,NOUN_CHUNK
+Digestifs,include,brandy,NOUN_CHUNK,NOUN_CHUNK
+brands,have,fruit,NOUN_CHUNK,NOUN_CHUNK
+Fortified wines,contain,20 % alcohol,NOUN_CHUNK,NOUN_CHUNK
+shape,have,significant effect,NOUN_CHUNK,NOUN_CHUNK
+Practice,reduced,tendency,NOUN_CHUNK,NOUN_CHUNK
+standard drink,contains,0.6 US fluid ounces,NOUN_CHUNK,QUANTITY
+Alcohol laws,regulate,manufacture,NOUN_CHUNK,NOUN_CHUNK
+Alcohol laws,prohibit,drunk driving,NOUN_CHUNK,NOUN_CHUNK
+Signs,include,jaundice,NOUN_CHUNK,NOUN_CHUNK
+alcoholics,develop,acute hepatitis,NOUN_CHUNK,NOUN_CHUNK
+Patients,develop,liver cancer,NOUN_CHUNK,NOUN_CHUNK
+liver enzymes,exceed,500,NOUN_CHUNK,CARDINAL
+Liver biopsy,confirms,diagnosis,NOUN_CHUNK,NOUN_CHUNK
+Clinical practice guidelines,recommended,corticosteroids,NOUN_CHUNK,NOUN_CHUNK
+large prospective study,investigated,prednisolone pentoxifylline produced benefits,NOUN_CHUNK,NOUN_CHUNK
+Pentoxifylline,improve,survival,NOUN_CHUNK,NOUN_CHUNK
+lesser,explain,phenomenon,NOUN_CHUNK,NOUN_CHUNK
+concomitant hepatitis C infection,accelerates,process,NOUN_CHUNK,NOUN_CHUNK
+Polymorphisms,explain,genetic component,NOUN_CHUNK,NOUN_CHUNK
+factors,cause,inflammation,NOUN_CHUNK,NOUN_CHUNK
+Alcoholism,causes,development,NOUN_CHUNK,NOUN_CHUNK
+higher NADH concentration,induces,fatty acid synthesis,NOUN_CHUNK,NOUN_CHUNK
+Between 10% and 35%,develop,alcoholic hepatitis,PERCENT,NOUN_CHUNK
+Kupffer cells,stimulating,release,NOUN_CHUNK,NOUN_CHUNK
+TNF α,triggers,apoptotic pathways,NOUN_CHUNK,NOUN_CHUNK
+Between 10% to 20%,develop,cirrhosis,PERCENT,NOUN_CHUNK
+2E1 and the formation of acetaldehyde-protein adducts,and/or,cell membrane,CARDINAL,NOUN_CHUNK
+Symptoms,include,jaundice,NOUN_CHUNK,NOUN_CHUNK
+Late complications,include,portal hypertension,NOUN_CHUNK,NOUN_CHUNK
+laboratory findings,include,red blood cell macrocytosis,NOUN_CHUNK,NOUN_CHUNK
+magnitude,reflects,severity,NOUN_CHUNK,NOUN_CHUNK
+Histologic features,include,Mallory bodies,NOUN_CHUNK,NOUN_CHUNK
+review,claimed,benefit,NOUN_CHUNK,NOUN_CHUNK
+Evidence,support,supplemental nutrition,NOUN_CHUNK,NOUN_CHUNK
+only 10%,have,normalization,PERCENT,NOUN_CHUNK
+biofilm,have,high resistance,NOUN_CHUNK,NOUN_CHUNK
+Sodium alginate,has,wide use,NOUN_CHUNK,NOUN_CHUNK
+Dental impression material,uses,alginate,NOUN_CHUNK,NOUN_CHUNK
+Alginates,have,variations,NOUN_CHUNK,NOUN_CHUNK
+diseases,include,hay fever,NOUN_CHUNK,NOUN_CHUNK
+Symptoms,include,red eyes,NOUN_CHUNK,NOUN_CHUNK
+Common allergens,include,pollen certain foods,NOUN_CHUNK,NOUN_CHUNK
+Metals,cause,problems,NOUN_CHUNK,NOUN_CHUNK
+Treatments,include,avoidance,NOUN_CHUNK,NOUN_CHUNK
+about 1–18%,have,asthma,PERCENT,NOUN_CHUNK
+allergic rhinitis,causes,irritation,NOUN_CHUNK,NOUN_CHUNK
+Symptoms,include,abdominal pain,NOUN_CHUNK,NOUN_CHUNK
+Food allergies,cause,respiratory asthmatic reactions,NOUN_CHUNK,NOUN_CHUNK
+Insect stings,affected,systemic allergic response,NOUN_CHUNK,NOUN_CHUNK
+Skin allergies,cause,rashes,NOUN_CHUNK,NOUN_CHUNK
+large local reaction,occur,area,NOUN_CHUNK,NOUN_CHUNK
+wide variety,cause,allergic reactions,NOUN_CHUNK,NOUN_CHUNK
+Egg allergies,affect,one to two percent,NOUN_CHUNK,PERCENT
+Roughly 10%,have,reaction,PERCENT,NOUN_CHUNK
+genetic modification,remove,allergens,NOUN_CHUNK,NOUN_CHUNK
+Researchers,attribute,higher level,NOUN_CHUNK,NOUN_CHUNK
+reaction,lasts,48–96 hours,NOUN_CHUNK,TIME
+people,have,perioral itching local urticaria,NOUN_CHUNK,NOUN_CHUNK
+food induced allergies,have,systemic responses,NOUN_CHUNK,NOUN_CHUNK
+resulting dermatological response,includes,redness,NOUN_CHUNK,NOUN_CHUNK
+Approximately 25 percent,have,strong allergic response,PERCENT,NOUN_CHUNK
+Epidemiological data,support,hygiene hypothesis,NOUN_CHUNK,NOUN_CHUNK
+Chronic stress,aggravate,allergic conditions,NOUN_CHUNK,NOUN_CHUNK
+Stress management,improve,symptoms,NOUN_CHUNK,NOUN_CHUNK
+Cytokines,play,role,NOUN_CHUNK,NOUN_CHUNK
+early accurate diagnoses,referrals to,cost,NOUN_CHUNK,NOUN_CHUNK
+Allergy,undergoes,dynamic changes,NOUN_CHUNK,NOUN_CHUNK
+Common areas,include,inside forearm,NOUN_CHUNK,NOUN_CHUNK
+Adults,get,allergy blood test,NOUN_CHUNK,NOUN_CHUNK
+test,measures,concentration,NOUN_CHUNK,NOUN_CHUNK
+mother diet,is,risk,NOUN_CHUNK,NOUN_CHUNK
+allergy,improve,symptoms,NOUN_CHUNK,NOUN_CHUNK
+evidence,supports,use,NOUN_CHUNK,NOUN_CHUNK
+evidence,tried for,effectiveness,NOUN_CHUNK,NOUN_CHUNK
+review,found,effectiveness,NOUN_CHUNK,NOUN_CHUNK
+infections,speculated,effect,NOUN_CHUNK,NOUN_CHUNK
+Important elements,include,exposure,NOUN_CHUNK,NOUN_CHUNK
+newer methods,use,colorimetric fluorescence labeled technology,NOUN_CHUNK,NOUN_CHUNK
+report,presented,case,NOUN_CHUNK,NOUN_CHUNK
+the House of Lords,convened,subcommittee,ORG,NOUN_CHUNK
+amoebicidal drugs,include,emetine,NOUN_CHUNK,NOUN_CHUNK
+greater concentration,explains,high efficacy,NOUN_CHUNK,NOUN_CHUNK
+Gastro intestinal symptoms,include,nausea,NOUN_CHUNK,NOUN_CHUNK
+rare E.C.G. changes,include,deformity,NOUN_CHUNK,NOUN_CHUNK
+emetine,produces,dramatic clinical response thanchloroquine,NOUN_CHUNK,NOUN_CHUNK
+total dose,exceed,650 mg or,NOUN_CHUNK,QUANTITY
+relapse rate,follows,course,NOUN_CHUNK,NOUN_CHUNK
+total daily dose,exceed,90 mg,NOUN_CHUNK,QUANTITY
+John,used,quinine hydrochloride,PERSON,NOUN_CHUNK
+G. tablet,contains,chloroquine diphosphate,NOUN_CHUNK,NOUN_CHUNK
+repetition,induce,dramatic response,NOUN_CHUNK,NOUN_CHUNK
+single oral dose,produced,dramatic response,NOUN_CHUNK,NOUN_CHUNK
+nitroimidazole compound,shown,marked therapeutic response,NOUN_CHUNK,NOUN_CHUNK
+Occasional effects,include,nausea,NOUN_CHUNK,NOUN_CHUNK
+use,provided,important information,NOUN_CHUNK,NOUN_CHUNK
+perianal space,surrounds,anal canal,NOUN_CHUNK,NOUN_CHUNK
+suppuration,formed,external anal sphincter,NOUN_CHUNK,NOUN_CHUNK
+Supralevator,abscess,forms,NOUN_CHUNK,NOUN_CHUNK
+signs,include,constipation,NOUN_CHUNK,NOUN_CHUNK
+method,involves,use,NOUN_CHUNK,NOUN_CHUNK
+patients,have,form,NOUN_CHUNK,NOUN_CHUNK
+people,associated with,lumps,NOUN_CHUNK,NOUN_CHUNK
+tuberculosis,acquired,immunodeficiency syndrome,NOUN_CHUNK,NOUN_CHUNK
+sexually transmitted infections,promote,breakdown,NOUN_CHUNK,NOUN_CHUNK
+prompt treatment,reduce,anal strain,NOUN_CHUNK,NOUN_CHUNK
+measures,include,warm sitz baths,NOUN_CHUNK,NOUN_CHUNK
+Combination,offer,98 % cure rates,NOUN_CHUNK,NOUN_CHUNK
+Surgical operations,involve,general regional anaesthetia,NOUN_CHUNK,NOUN_CHUNK
+anal stretching,increase,rate,NOUN_CHUNK,NOUN_CHUNK
+treatment option,carry,risk,NOUN_CHUNK,NOUN_CHUNK
+Additional ligation,improve,outcome,NOUN_CHUNK,NOUN_CHUNK
+clinical data,demonstrate,success rate,NOUN_CHUNK,NOUN_CHUNK
+literature review,showed,incidence,NOUN_CHUNK,NOUN_CHUNK
+Causes,include,trauma,NOUN_CHUNK,NOUN_CHUNK
+Causes,include,iron deficiency,NOUN_CHUNK,NOUN_CHUNK
+Causes,include,genetic conditions,NOUN_CHUNK,NOUN_CHUNK
+Iron deficiency anemia,affects,nearly 1 billion people,NOUN_CHUNK,NOUN_CHUNK
+Aplastic anemia,affects,kinds,NOUN_CHUNK,NOUN_CHUNK
+Lack,causes,non - pernicious megaloblastic anemia,NOUN_CHUNK,NOUN_CHUNK
+Anemia,causes,megaloblastic anemia,NOUN_CHUNK,NOUN_CHUNK
+Intrinsic intracorpuscular abnormalities,cause,premature destruction,NOUN_CHUNK,NOUN_CHUNK
+Hemoglobinopathies,causing,unstable hemoglobins,NOUN_CHUNK,NOUN_CHUNK
+Trauma,causing,acute blood loss,NOUN_CHUNK,NOUN_CHUNK
+acute bleeds,Gastrointestinal tract lesions,chronic blood loss,NOUN_CHUNK,NOUN_CHUNK
+type,cause,acute chronic blood loss,NOUN_CHUNK,NOUN_CHUNK
+word anemia,implies,widespread effects,NOUN_CHUNK,NOUN_CHUNK
+ischemia,cause,localized anemic effects,NOUN_CHUNK,NOUN_CHUNK
+Certain gastrointestinal disorders,cause,anemia,NOUN_CHUNK,NOUN_CHUNK
+Helicobacter,pylori,infection,NOUN_CHUNK,NOUN_CHUNK
+reviews,provide,comparison,NOUN_CHUNK,NOUN_CHUNK
+counters,estimate,hematocrit,NOUN_CHUNK,NOUN_CHUNK
+kinetic approach,yields,arguably clinically relevant classification,NOUN_CHUNK,NOUN_CHUNK
+RBCs,appear,hypochromic,NOUN_CHUNK,NOUN_CHUNK
+Alcoholism,causes,macrocytosis,NOUN_CHUNK,NOUN_CHUNK
+types,cause,macrocytosis,NOUN_CHUNK,NOUN_CHUNK
+Drugs,inhibit,DNA replication,NOUN_CHUNK,NOUN_CHUNK
+features,include,smooth red tongue,NOUN_CHUNK,NOUN_CHUNK
+three,shared,the 1934 Nobel Prize,CARDINAL,WORK_OF_ART
+person,have,pale,NOUN_CHUNK,NOUN_CHUNK
+person,have,dimorphic smear,NOUN_CHUNK,NOUN_CHUNK
+Heinz body anemia,has,causes,NOUN_CHUNK,NOUN_CHUNK
+people,develop,state,NOUN_CHUNK,NOUN_CHUNK
+Concerns,include,iron overload,NOUN_CHUNK,NOUN_CHUNK
+iron overload,require,chelation therapy,NOUN_CHUNK,NOUN_CHUNK
+Vitamin supplements,replace,specific deficiencies,NOUN_CHUNK,NOUN_CHUNK
+diagnosis,mandates,search,NOUN_CHUNK,NOUN_CHUNK
+body,absorb,6 mg iron,NOUN_CHUNK,NOUN_CHUNK
+Transfusing,improve,survival,NOUN_CHUNK,NOUN_CHUNK
+moderate degree,affected,approximately 610 million people,NOUN_CHUNK,NOUN_CHUNK
+Mild iron deficiency anemia,affects,another 375 million,NOUN_CHUNK,CARDINAL
+causes,include,anemia,NOUN_CHUNK,NOUN_CHUNK
+recent data,considered,attitude,NOUN_CHUNK,NOUN_CHUNK
+Major risk factors,include,cigarette smoking,NOUN_CHUNK,NOUN_CHUNK
+Valvular heart diseaseMyocardial ischemia,result,from:.a reduction,NOUN_CHUNK,NOUN_CHUNK
+Antacids,relieve,pain,NOUN_CHUNK,NOUN_CHUNK
+combination,given,drop,NOUN_CHUNK,NOUN_CHUNK
+Low dose aspirin,decreases,risk,NOUN_CHUNK,NOUN_CHUNK
+evidence,support,use,NOUN_CHUNK,NOUN_CHUNK
+diagnosis,require,catheterization,NOUN_CHUNK,NOUN_CHUNK
+New techniques,include,positron emission tomography,NOUN_CHUNK,NOUN_CHUNK
+Women,have,traditional risk factors,NOUN_CHUNK,NOUN_CHUNK
+approaches,include,spinal cord stimulators,NOUN_CHUNK,NOUN_CHUNK
+line options,include,antifibrinolytics tranexamic acid,NOUN_CHUNK,NOUN_CHUNK
+Estrogens,cause,mild hypercoaguability,NOUN_CHUNK,NOUN_CHUNK
+failure,attempted,defaecation,NOUN_CHUNK,NOUN_CHUNK
+relevant anatomy,includes,rectum,NOUN_CHUNK,NOUN_CHUNK
+internal anal sphincter,forms,walls,NOUN_CHUNK,NOUN_CHUNK
+angle,prevents,movement,NOUN_CHUNK,NOUN_CHUNK
+techniques,include,manometry,NOUN_CHUNK,NOUN_CHUNK
+Treatments,include,retraining,NOUN_CHUNK,NOUN_CHUNK
+Non - particulate antacids,increase,gastric,NOUN_CHUNK,NOUN_CHUNK
+Effervescent antacids,contain,aspirin,NOUN_CHUNK,NOUN_CHUNK
+Brand names,include,Alu-Cap,NOUN_CHUNK,PERSON
+Non - particulate antacids,increase,gastric,NOUN_CHUNK,NOUN_CHUNK
+Effervescent antacids,contain,aspirin,NOUN_CHUNK,NOUN_CHUNK
+Brand names,include,Alu-Cap,NOUN_CHUNK,PERSON
+Common effects,include,dry mouth,NOUN_CHUNK,NOUN_CHUNK
+Options,include,pharmacotherapy,NOUN_CHUNK,NOUN_CHUNK
+Antidepressants,provide,modest moderate reduction,NOUN_CHUNK,NOUN_CHUNK
+TCAs antidepressants,shown,efficacy,NOUN_CHUNK,NOUN_CHUNK
+Clinical trials,generated,negative results,NOUN_CHUNK,NOUN_CHUNK
+tests,include,use,NOUN_CHUNK,NOUN_CHUNK
+effects,continue,course,NOUN_CHUNK,NOUN_CHUNK
+person,experience,headache,NOUN_CHUNK,NOUN_CHUNK
+study,found,increase,NOUN_CHUNK,NOUN_CHUNK
+neonate,experience,withdrawal syndrome,NOUN_CHUNK,NOUN_CHUNK
+The National Institute for Health and Care Excellence,places,excess risk,ORG,NOUN_CHUNK
+Antidepressant treatment,has,protective effect,NOUN_CHUNK,NOUN_CHUNK
+overall sexual dysfunction,averaged,59.1%,NOUN_CHUNK,PERCENT
+Moclobemide,cause,sexual dysfunction,NOUN_CHUNK,NOUN_CHUNK
+symptoms,include,flu like symptoms,NOUN_CHUNK,NOUN_CHUNK
+lithium,decreases,suicide risk,NOUN_CHUNK,NOUN_CHUNK
+Irving Selikoff,began,clinical trials,PERSON,NOUN_CHUNK
+Selikoff,noted,subtle general stimulation,ORG,NOUN_CHUNK
+", Delay",reported,positive effect,PERSON,NOUN_CHUNK
+Jackson Smith,described,psychiatric applications,PERSON,NOUN_CHUNK
+Roche,put,significant marketing effort,ORG,NOUN_CHUNK
+about 16.5%,took,antidepressants,PERCENT,NOUN_CHUNK
+cross - cultural discrepancies,have,implications,NOUN_CHUNK,NOUN_CHUNK
+presence,caused,concern,NOUN_CHUNK,NOUN_CHUNK
+Histamine,promotes,angiogenesis,ORG,NOUN_CHUNK
+H1-antihistamines,reduce,inflammation,NOUN_CHUNK,NOUN_CHUNK
+common antihistamines,include,hydroxyzine,NOUN_CHUNK,NOUN_CHUNK
+Second generation antihistamines,cross,blood,NOUN_CHUNK,NOUN_CHUNK
+Characteristic symptoms,include,yellow discoloration,NOUN_CHUNK,NOUN_CHUNK
+Reynolds pentad,includes,findings,NOUN_CHUNK,NOUN_CHUNK
+combination,indicates,worsening,NOUN_CHUNK,NOUN_CHUNK
+bile,reaches,duodenum,NOUN_CHUNK,NOUN_CHUNK
+constitution,has,protective role,NOUN_CHUNK,NOUN_CHUNK
+increased biliary pressure,decreases,production,NOUN_CHUNK,NOUN_CHUNK
+Routine blood tests,show,features,NOUN_CHUNK,NOUN_CHUNK
+Enterococcus,causes,10–20%,ORG,PERCENT
+Cholangitis,requires,admission,NOUN_CHUNK,NOUN_CHUNK
+Acute cholangitis,carries,significant risk,NOUN_CHUNK,NOUN_CHUNK
+causes,include,heart failure,NOUN_CHUNK,NOUN_CHUNK
+Symptoms,include,right lower abdominal pain,NOUN_CHUNK,NOUN_CHUNK
+approximately 40%,have,typical symptoms,PERCENT,NOUN_CHUNK
+Severe complications,include,widespread painful inflammation,NOUN_CHUNK,NOUN_CHUNK
+Inflamed lymphoid tissue,cause,blockage,NOUN_CHUNK,NOUN_CHUNK
+Surgery,decreases,risk,NOUN_CHUNK,NOUN_CHUNK
+presentation,includes,abdominal pain,NOUN_CHUNK,NOUN_CHUNK
+Studies,implicated,transition,NOUN_CHUNK,NOUN_CHUNK
+studies,offer,evidence,NOUN_CHUNK,NOUN_CHUNK
+Atypical histories,require,imaging,NOUN_CHUNK,NOUN_CHUNK
+examiner,performs,firm swish,NOUN_CHUNK,NOUN_CHUNK
+examiner,holds,person ankle,NOUN_CHUNK,NOUN_CHUNK
+70–90 percent,have,elevated white blood cell,NOUN_CHUNK,NOUN_CHUNK
+CT scan,has,sensitivity,NOUN_CHUNK,NOUN_CHUNK
+Ultrasonography,had,overall sensitivity,ORG,NOUN_CHUNK
+ultrasonography,reveal,abnormalities,NOUN_CHUNK,NOUN_CHUNK
+abdominal pain,typhlitis in,new onset Crohn disease,NOUN_CHUNK,NOUN_CHUNK
+Laparoscopic appendectomy,has,advantages,NOUN_CHUNK,NOUN_CHUNK
+Laparoscopic appendectomy,has,advantages,NOUN_CHUNK,NOUN_CHUNK
+appendectomy,require,diet changes,NOUN_CHUNK,NOUN_CHUNK
+recovery,takes,three weeks,NOUN_CHUNK,DATE
+prompt diagnosis,yield,best results,NOUN_CHUNK,NOUN_CHUNK
+Medical management,treats,condition,NOUN_CHUNK,NOUN_CHUNK
+Stump appendicitis,occur,months to years,NOUN_CHUNK,DATE
+Signs,include,fever,NOUN_CHUNK,NOUN_CHUNK
+Complications,include,lung abscess,NOUN_CHUNK,NOUN_CHUNK
+Risk factors,include,decreased level,NOUN_CHUNK,NOUN_CHUNK
+person,have,insidious course,NOUN_CHUNK,NOUN_CHUNK
+Anatomical changes,disrupt,swallow mechanism,NOUN_CHUNK,NOUN_CHUNK
+Hispanics,have,lower risk,NOUN_CHUNK,NOUN_CHUNK
+Common aerobic bacteria,involved,include:.Streptococcus pneumoniae,NOUN_CHUNK,NOUN_CHUNK
+Klebsiella,play,key role,PERSON,NOUN_CHUNK
+patients,have,sudden arterial hypoxemia,NOUN_CHUNK,NOUN_CHUNK
+Clinical symptoms,increase,suspicion,NOUN_CHUNK,NOUN_CHUNK
+inflammation,cause,similar findings,NOUN_CHUNK,NOUN_CHUNK
+administration,causes,suppression,NOUN_CHUNK,NOUN_CHUNK
+stomach particles,enter,lungs,NOUN_CHUNK,NOUN_CHUNK
+Currently recommended antibiotics,include,clindamycin,NOUN_CHUNK,NOUN_CHUNK
+patient individual vigor,impact,development,NOUN_CHUNK,NOUN_CHUNK
+Aging,increases,risk,NOUN_CHUNK,NOUN_CHUNK
+Symptoms,include,episodes,NOUN_CHUNK,NOUN_CHUNK
+Environmental factors,include,exposure,NOUN_CHUNK,NOUN_CHUNK
+potential triggers,include,medications,NOUN_CHUNK,NOUN_CHUNK
+358 million people,had,asthma,NOUN_CHUNK,NOUN_CHUNK
+medications,increase,risk,NOUN_CHUNK,NOUN_CHUNK
+majority,support,causal role,NOUN_CHUNK,NOUN_CHUNK
+Common indoor allergens,include,dust mites,NOUN_CHUNK,NOUN_CHUNK
+Certain viral respiratory infections,increase,risk,NOUN_CHUNK,NOUN_CHUNK
+Certain infections,decrease,risk,NOUN_CHUNK,NOUN_CHUNK
+affluent individuals,is,exposure,NOUN_CHUNK,NOUN_CHUNK
+genetic variants,cause,asthma,NOUN_CHUNK,NOUN_CHUNK
+Individuals,experience,symptoms,NOUN_CHUNK,NOUN_CHUNK
+individuals,develop,severe exacerbation,NOUN_CHUNK,NOUN_CHUNK
+viral bacterial infections,worsen,disease,NOUN_CHUNK,NOUN_CHUNK
+Typical changes,include,increase,NOUN_CHUNK,NOUN_CHUNK
+cell types,include,T lymphocytes,NOUN_CHUNK,NOUN_CHUNK
+cells,defined by,role,NOUN_CHUNK,NOUN_CHUNK
+supportive evidence,includes,≥20 % difference,NOUN_CHUNK,NOUN_CHUNK
+asthma,affects,bronchi,NOUN_CHUNK,NOUN_CHUNK
+Exercise,trigger,bronchoconstriction,NOUN_CHUNK,NOUN_CHUNK
+Aspirin exacerbated respiratory disease,affects,up to 9%,NOUN_CHUNK,PERCENT
+Alcohol,worsen,asthmatic symptoms,NOUN_CHUNK,NOUN_CHUNK
+studies,found,improvement,NOUN_CHUNK,NOUN_CHUNK
+Non - atopic asthma,makes up,between 10 and 33%,NOUN_CHUNK,PERCENT
+conditions,cause,symptoms,NOUN_CHUNK,NOUN_CHUNK
+causes,considered,lymph nodes,NOUN_CHUNK,NOUN_CHUNK
+people,have,asthma,NOUN_CHUNK,NOUN_CHUNK
+People,have,higher rates,NOUN_CHUNK,NOUN_CHUNK
+Cognitive behavioral therapy,improve,quality,NOUN_CHUNK,NOUN_CHUNK
+common triggers,include,allergens,NOUN_CHUNK,NOUN_CHUNK
+Cigarette smoking,reduce,effectiveness,NOUN_CHUNK,NOUN_CHUNK
+Yoga,provide,small improvements,NOUN_CHUNK,NOUN_CHUNK
+person,used,SABA,NOUN_CHUNK,NOUN_CHUNK
+Older selective adrenergic agonists,have,similar efficacy,NOUN_CHUNK,NOUN_CHUNK
+Long acting beta adrenoceptor agonists,improve,asthma control,NOUN_CHUNK,NOUN_CHUNK
+Intravenous administration,provide,improvement,NOUN_CHUNK,NOUN_CHUNK
+Long term use,carries,minor risk,NOUN_CHUNK,NOUN_CHUNK
+review,recommended,seven day course,NOUN_CHUNK,NOUN_CHUNK
+Magnesium sulfate intravenous treatment,increases,bronchodilation,NOUN_CHUNK,NOUN_CHUNK
+vitamin D supplements,is,symptoms,NOUN_CHUNK,NOUN_CHUNK
+half of cases,carry,diagnosis,CARDINAL,NOUN_CHUNK
+Asthma,has,negative effects,NOUN_CHUNK,NOUN_CHUNK
+One thus,sees,lower rates,CARDINAL,NOUN_CHUNK
+Low middle income countries,make up,more than 80%,NOUN_CHUNK,PERCENT
+Asthma,affects,approximately 7%,ORG,PERCENT
+Canada,have,rates,GPE,NOUN_CHUNK
+Greek word,named,basis,NOUN_CHUNK,NOUN_CHUNK
+Medical treatment,included,use,NOUN_CHUNK,NOUN_CHUNK
+F. H. Bosworth,theorized,connection,PERSON,NOUN_CHUNK
+Common initial symptoms,include,fatigue,NOUN_CHUNK,NOUN_CHUNK
+Individuals,have,initial symptoms,NOUN_CHUNK,NOUN_CHUNK
+Anomalous presentation,causes,cell mediated immune response,NOUN_CHUNK,NOUN_CHUNK
+Autoimmune hepatitis,present,completely asymptomatic (12–35%,NOUN_CHUNK,PERCENT
+people,have,laboratory abnormalities,NOUN_CHUNK,NOUN_CHUNK
+inflammatory infiltrate,hepatitis,interface,NOUN_CHUNK,NOUN_CHUNK
+Autoimmune hepatitis,has,incidence,NOUN_CHUNK,NOUN_CHUNK
+patients,have,associated autoimmune disorder,NOUN_CHUNK,NOUN_CHUNK
+disease,used,multiple different forms,NOUN_CHUNK,NOUN_CHUNK
+Type gastritis,affects,body fundus,NOUN_CHUNK,NOUN_CHUNK
+Type B gastritis,affects,antrum,NOUN_CHUNK,NOUN_CHUNK
+Common effects,include,sleepiness,NOUN_CHUNK,NOUN_CHUNK
+month supply,costs,the NHS,NOUN_CHUNK,ORG
+adverse effects,include,drowsiness,NOUN_CHUNK,NOUN_CHUNK
+little,preferred in,spinal fluid,NOUN_CHUNK,NOUN_CHUNK
+Synonyms,include,chlorophenibut,NOUN_CHUNK,NOUN_CHUNK
+Brand names,include,Beklo,NOUN_CHUNK,ORG
+radiologist,takes,series,NOUN_CHUNK,NOUN_CHUNK
+IV contrast injection,take,place,NOUN_CHUNK,NOUN_CHUNK
+Enteroclysis,involves,continued infusion,NOUN_CHUNK,NOUN_CHUNK
+procedure,take,6 hours,NOUN_CHUNK,TIME
+infections,produce,patterns,NOUN_CHUNK,NOUN_CHUNK
+Strongyloidiasis barium studies,show,intestinal wall oedema,NOUN_CHUNK,NOUN_CHUNK
+linear,seen,defects,NOUN_CHUNK,NOUN_CHUNK
+Typhlitis Barium studies,show,oedema,NOUN_CHUNK,NOUN_CHUNK
+barium studies,show,pancolitis,NOUN_CHUNK,NOUN_CHUNK
+Submucosal nodules,form,bull's eye target appearance,NOUN_CHUNK,NOUN_CHUNK
+Radiographic examinations,involve,radiation exposure,NOUN_CHUNK,NOUN_CHUNK
+Barium sulfate,cause,peritoneal irritation,NOUN_CHUNK,NOUN_CHUNK
+micelles,have,diameter,NOUN_CHUNK,NOUN_CHUNK
+Feces,lack,characteristic brown color,NOUN_CHUNK,NOUN_CHUNK
+blockage,cause,cholecystitis,NOUN_CHUNK,NOUN_CHUNK
+areas,include,Laos,NOUN_CHUNK,GPE
+Measurement,shows,increased bile acid synthesis,NOUN_CHUNK,NOUN_CHUNK
+biomarkers,give,similar diagnostic yields,NOUN_CHUNK,NOUN_CHUNK
+proof,shown,clinical biochemical benefit,NOUN_CHUNK,NOUN_CHUNK
+people,have,abnormal SeHCAT tests,NOUN_CHUNK,NOUN_CHUNK
+difference,explain,increased risk,NOUN_CHUNK,NOUN_CHUNK
+acidic stomach,cause,damage,NOUN_CHUNK,NOUN_CHUNK
+2C.This mechanism,explains,selection,NOUN_CHUNK,NOUN_CHUNK
+people,have,heartburn symptoms,NOUN_CHUNK,NOUN_CHUNK
+presence,represents,marker,NOUN_CHUNK,NOUN_CHUNK
+people,have,dysplasia,NOUN_CHUNK,NOUN_CHUNK
+little direct evidence,recommended,practice,NOUN_CHUNK,NOUN_CHUNK
+Treatment options,include,surgical removal,NOUN_CHUNK,NOUN_CHUNK
+Current recommendations,include,routine endoscopy,NOUN_CHUNK,NOUN_CHUNK
+overt malignancy,used in,surgery,PERSON,NOUN_CHUNK
+operation,reduce,reflux,NOUN_CHUNK,NOUN_CHUNK
+malignant sequela,has,mortality rate,NOUN_CHUNK,NOUN_CHUNK
+Blockage,prevents,bile,NOUN_CHUNK,NOUN_CHUNK
+condition,causes,severe itchiness,NOUN_CHUNK,NOUN_CHUNK
+people,exists,advanced stage disease,NOUN_CHUNK,NOUN_CHUNK
+backed bile,cause,pancreatic injury,NOUN_CHUNK,NOUN_CHUNK
+bile,contrasted to,bile ducts,NOUN_CHUNK,NOUN_CHUNK
+Arab physician Abulcasis,developed,one of the earliest diagnostic biopsies,NOUN_CHUNK,CARDINAL
+term,reflects,Greek words,NOUN_CHUNK,NOUN_CHUNK
+French dermatologist Ernest Besnier,introduced,word,PERSON,NOUN_CHUNK
+variety,collect,tissue,NOUN_CHUNK,NOUN_CHUNK
+liquid biopsy,provide,real time information,NOUN_CHUNK,NOUN_CHUNK
+tests,analyze,fragments,NOUN_CHUNK,NOUN_CHUNK
+test,produce,false positives,NOUN_CHUNK,NOUN_CHUNK
+new cancer medications,block,specific molecular processes,NOUN_CHUNK,NOUN_CHUNK
+tests,allow,easier targeting,NOUN_CHUNK,NOUN_CHUNK
+X - ray,extended,range,NOUN_CHUNK,NOUN_CHUNK
+immunofluorescence,plays,vital role,NOUN_CHUNK,NOUN_CHUNK
+conditions,affect,body,NOUN_CHUNK,NOUN_CHUNK
+website,gives,answers,NOUN_CHUNK,NOUN_CHUNK
+duct,form,central axis,NOUN_CHUNK,NOUN_CHUNK
+Pressure,give,rise,NOUN_CHUNK,NOUN_CHUNK
+physical examination,reveal,mass,NOUN_CHUNK,NOUN_CHUNK
+treatment,follows,basic principles,NOUN_CHUNK,NOUN_CHUNK
+study,concluded,Metronidazole,NOUN_CHUNK,PERSON
+rate,make,blood,NOUN_CHUNK,NOUN_CHUNK
+broad categories,include,cancerous processes,NOUN_CHUNK,NOUN_CHUNK
+list,include,diseases,NOUN_CHUNK,NOUN_CHUNK
+bacterial infection,erode,wall,NOUN_CHUNK,NOUN_CHUNK
+Shigella dysenteriae,see,dysentery,NOUN_CHUNK,NOUN_CHUNK
+Treatment,includes,topical nitrates,NOUN_CHUNK,NOUN_CHUNK
+internal hemorrhoids,cause,blood,NOUN_CHUNK,NOUN_CHUNK
+Causes,include,adhesions,NOUN_CHUNK,NOUN_CHUNK
+about 25%,require,surgery,PERCENT,NOUN_CHUNK
+Complications,include,sepsis,NOUN_CHUNK,NOUN_CHUNK
+biopsy,determine,nature,NOUN_CHUNK,NOUN_CHUNK
+Radiological signs,include,bowel distension,NOUN_CHUNK,NOUN_CHUNK
+Conservative treatment,involves,insertion,NOUN_CHUNK,NOUN_CHUNK
+More than 90%,form,adhesions,PERCENT,NOUN_CHUNK
+.Common consequences,include,small bowel obstruction,NOUN_CHUNK,NOUN_CHUNK
+CT scan,show,esophageal wall edema,NOUN_CHUNK,NOUN_CHUNK
+Endoscopy,has,role,NOUN_CHUNK,NOUN_CHUNK
+Common misdiagnoses,include,myocardial infarction,NOUN_CHUNK,NOUN_CHUNK
