@@ -6,3 +6,4 @@ POC's of some challenging data problems.
 [Time series IOT data forecasting](https://github.com/EpcLoler/Proof-of-Concepts/tree/master/IOT_forecasting)
 ## Wikipedia knowledge graphs
 Building knowledge graphs through subject, predicate, theme extraction
+![knowledge graph gerd (disease)](https://github.com/EpcLoler/Proof-of-Concepts/blob/master/Knowledge_graphs/gerd_1.png)
