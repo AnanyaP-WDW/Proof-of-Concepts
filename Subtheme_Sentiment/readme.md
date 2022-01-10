@@ -11,5 +11,5 @@ In this review there are numerous insights, insights we call “subtheme sentime
 The main difference between these subthemes is that garage service and wait time are aspects of the service that can be positive or negative while
 Incorrect Tyres sent denotes a problem, something inherently negative.
 ### Approach:
-1) Multi-class classification of sentiment.
+1) Using Bert for Multi-class classification of sentiment.
 2) Attaching labels (*aspects*) based on regex rules.
